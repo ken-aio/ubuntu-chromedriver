@@ -2,4 +2,4 @@
 chromedriver installed ubuntu image  
   
 # dockerhub
-https://cloud.docker.com/repository/docker/kenaio/ubuntu-chromedriver
+https://hub.docker.com/r/kenaio/ubuntu-chromedriver
